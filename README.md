@@ -14,7 +14,7 @@ I closely work with management, product, design, engineering and QA to share kno
 
 💬 Ask me about Kotlin, Kotlin Multiplatform, Android, Java, Jetpack Compose
 
-⚡ Fun fact: ...
+⚡ Advocating for Clean Code, TDD, agile software development and team work.
 
 #### Tech Stack
 
