@@ -15,14 +15,3 @@ I closely work with management, product, design, engineering and QA to share kno
 💬 Ask me about Kotlin, Kotlin Multiplatform, Android, Java, Jetpack Compose
 
 ⚡ Advocating for Clean Code, TDD, agile software development and team work
-
-#### Tech Stack
-
-- **Android**: Kotlin, Kotlin Multiplatform Mobile, Jetpack Compose, Java, Flow, Ktor Client, Retrofit, Koin, Gradle, SQL, SQLCipher, Realm
-- **iOS**: Swift, Swift UI, Swift Package Manager, Kotlin Multiplatform Mobile, Kotlin Native, CoreData
-- **Web**: React, JavaScript, HTML5, CSS3, Kotlin JS
-- **Backend**: Kotlin, Java, REST, GraphQL, Ktor Server, MongoDB, Docker, Kubernetes
-- **Technology**: OAuth 2, HL7 FHIR, cryptographie, E2E encryption, hybrid encryption
-- **Tools**: Jira, Confluence, Trello, Git, GitHub Actions, Jenkins, Miro, Sketch
-- **Testing**: TDD, Junit, Jacoco, SonarCloud, Detekt, Ktlint, SwiftLint, page object pattern
-- **Concept**: OOP, Reactive, Solid, Functional Programming, Scrum, Kanban, Git Flow
