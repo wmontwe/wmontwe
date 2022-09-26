@@ -2,7 +2,7 @@
 
 My current role is Head of Mobile Engineering @ [Data4Life](https://www.data4life.care/)
 
-I'm a Berlin based software engineering with 10+ years of professional experience. Passionate about building mobile applications, focusing on **Android** and **Kotlin Multiplatform**.
+I'm a Berlin based software engineer with 10+ years of professional experience. Passionate about building mobile applications, focusing on **Android** and **Kotlin Multiplatform**.
 
 ### Facts
 
