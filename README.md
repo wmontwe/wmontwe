@@ -6,7 +6,7 @@ I'm a Berlin based software engineer with 10+ years of professional experience. 
 
 ### Facts
 
-🔭 I’m currently working on **open source** projects that will be published at [bitfunk](https://github.com/bitfunk)
+🔭 I’m currently working on **open source** projects that are available at [bitfunk](https://github.com/bitfunk)
 
 🌱 I’m currently learning [Phoenix](https://www.phoenixframework.org/) as it's such an intersting way to develop for web and also diving into it's [Elixir](https://elixir-lang.org/) foundation.
 
