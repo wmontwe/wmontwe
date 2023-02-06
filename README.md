@@ -1,8 +1,8 @@
 ### Hi 👋
 
-My current role is Head of Mobile Engineering @ [Data4Life](https://www.data4life.care/)
+My current role is open source developer working on [K-9 Mail](https://github.com/thundernest/k-9)/[Thunderbird](https://thunderbird.net/) for Android.
 
-I'm a Berlin based software engineer with 10+ years of professional experience. Passionate about building mobile applications, focusing on **Android** and **Kotlin Multiplatform**.
+I'm a Berlin based software engineer with 10+ years of professional experience. Passionate about building mobile applications, focusing on **Android**, **Kotlin Multiplatform** and **open source**.
 
 ### Facts
 
@@ -12,4 +12,4 @@ I'm a Berlin based software engineer with 10+ years of professional experience. 
 
 💬 Ask me about Kotlin, Kotlin Multiplatform, Android, Java, Jetpack Compose
 
-⚡ Advocating for Clean Code, TDD, agile software development and team work
+⚡ Advocating for Clean Code, TDD, agile software development, team work and open source.
