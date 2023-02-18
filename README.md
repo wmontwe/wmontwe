@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm a Berlin based software engineer with 10+ years of professional experience. Passionate about building mobile applications, focusing on **Android**, **Kotlin Multiplatform** and **open source**.
+I'm a Berlin based software engineer with over 10 years of professional experience. I specialize in building mobile applications, focusing on **Android**, **Kotlin Multiplatform** and have a strong passion for working on **open source** projects.
 
-My current role is open source developer working on [K-9 Mail](https://github.com/thundernest/k-9)/[Thunderbird](https://thunderbird.net/) for Android.
+At [Thunderbird](https://thunderbird.net/), I work as an open source developer on the [K-9 Mail App](https://github.com/thundernest/k-9) for Android.
 
 ### Facts
 
