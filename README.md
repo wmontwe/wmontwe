@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Berlin based software engineer with over a decode of professional experience. Specialized in building mobile applications, focusing on **Android** and **Kotlin Multiplatform**. I have a strong passion for working on **open source** projects.
+I'm a Berlin based software engineer with over a decade of professional experience. Specialized in building mobile applications, focusing on **Android** and **Kotlin Multiplatform**. I have a strong passion for working on **open source** projects.
 
 At [Thunderbird](https://thunderbird.net/), I work as an open source developer on [Thunderbird for Android](https://github.com/thunderbird/thunderbird-android).
 
